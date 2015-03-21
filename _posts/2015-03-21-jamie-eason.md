@@ -1,5 +1,7 @@
 ---
+layout: post
 published: true
+tags: test2
 ---
 
 ## Jemie Eason
