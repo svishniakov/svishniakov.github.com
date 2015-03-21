@@ -2,12 +2,6 @@
 published: true
 ---
 
----
-layout: post
-published: true
-tags: test2
----
-
 ## Jemie Eason
 ![Jamie Eason](/http://www.bodybuilding.com/fun/images/2008/jamie_eason_interview_b.jpg)
 
