@@ -11,8 +11,8 @@ highlighter: pygments
 title : TrashCan.tips
 tagline: TrashCan for my thoughts
 author :
-  name : Sergey Vishniakov
-  email : blah@email.test
+  name : UncleJumper
+  email : uncle@jumper.ws
   github : svishniakov
 
 # The production_url is only used when full-domain names are needed
@@ -70,9 +70,10 @@ JB :
   archive_path: /archive.html
   categories_path : /categories.html
   tags_path : /tags.html
-  about_path : about/about.html
-  atom_path : /atom.xml
-  rss_path : /rss.xml
+  about_path : /about.html
+  atom_path : feeds/atom.xml
+  pages_path : /pages.html
+  rss_path : feeds/rss.xml
 
   # Settings for comments helper
   # Set 'provider' to the comment provider you want to use.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Bootstrap flash messages"
+title: "Using of Bootstrap flash messages with Rails"
 tags: [rails, bootstrap]
 ---
 First of all ApplicationHelper should be modified
