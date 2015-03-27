@@ -30,9 +30,9 @@ tags: [rails, tips, development]
    rvm --ruby-version use 2.1.2@gemsetname
    </pre>
 
-### Create and use gemset using one-line command
+### Create, fix and use gemset using one-line command
 <pre>
-rvm use 2.1.2@gemsetname --create
+rvm --ruby-version use 2.1.2@gemsetname --create
 </pre>
 
 {% include JB/setup %}
