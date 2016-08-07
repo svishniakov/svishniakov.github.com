@@ -22,4 +22,14 @@ tags: [gems, development, rails]
 
 [Lets you find ActiveRecord](https://github.com/radar/by_star){:target="_blank"} objects by year, month, fortnight, week and etc. - https://github.com/radar/by_star
 
+[Validation Auditor](https://github.com/pupeno/validation_auditor){:target="_blank"} log validation errors to the database for later inspection. - https://github.com/pupeno/validation_auditor
+
+[gritter](https://github.com/RobinBrouwer/gritter){:target="_blank"} allows you to easily add Growl-like notifications to your application using a jQuery plugin called 'gritter'. - https://github.com/RobinBrouwer/gritter
+
+[Chartkick](https://github.com/ankane/chartkick){:target="_blank"} allods you to create beautiful JavaScript charts with one line of Ruby. - http://chartkick.com/
+
+[Groupdate](https://github.com/ankane/groupdate){:target="_blank"} - the simplest way to group temporal data. - https://github.com/ankane/groupdate
+
+[Active Scaffold](https://github.com/activescaffold/active_scaffold){:target="_blank"} - provides a quick and powerful user interfaces for CRUD (create, read, update, delete) operations for Rails applications. It offers additonal features including searching, pagination & layout control. - https://github.com/activescaffold/active_scaffold
+
 {% include JB/setup %}
