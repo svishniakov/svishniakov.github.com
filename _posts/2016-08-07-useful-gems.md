@@ -32,4 +32,6 @@ tags: [gems, development, rails]
 
 [Active Scaffold](https://github.com/activescaffold/active_scaffold){:target="_blank"} - provides a quick and powerful user interfaces for CRUD (create, read, update, delete) operations for Rails applications. It offers additonal features including searching, pagination & layout control. - https://github.com/activescaffold/active_scaffold
 
+[Rearmed Ruby](https://github.com/westonganger/rearmed-rb) - A collection of helpful methods and monkey patches for Objects, Strings, Enumerables, Arrays, Hash, Dates, & Rails - https://github.com/westonganger/rearmed-rb
+
 {% include JB/setup %}
