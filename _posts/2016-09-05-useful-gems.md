@@ -34,4 +34,6 @@ tags: [gems, development, rails]
 
 [Rearmed Ruby](https://github.com/westonganger/rearmed-rb) - A collection of helpful methods and monkey patches for Objects, Strings, Enumerables, Arrays, Hash, Dates, & Rails - https://github.com/westonganger/rearmed-rb
 
+[Stamp](https://github.com/jeremyw/stamp) - Date and time formatting for humans - https://github.com/jeremyw/stamp 
+
 {% include JB/setup %}
